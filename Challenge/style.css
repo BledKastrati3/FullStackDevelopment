@@ -1,0 +1,35 @@
+.square{
+    width: 100px;
+    height: 100px;
+    color: red;
+    background-color: black;
+}
+
+
+
+.circle{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    color: red;
+    background-color: black;
+    
+}
+
+.rectangle{
+    width: 200px;
+    height: 100px;
+    color: red;
+    background-color: black;
+}
+
+.triangle{
+    width: 0px;
+    height: 0px;
+    color: red;
+    background-color: black;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid;
+    
+}
